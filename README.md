@@ -2,4 +2,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python developer, Сomputer science student</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%9370db&lines=developer,+science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%9370db&lines=Developer,+Science)](https://git.io/typing-svg)
